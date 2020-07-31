@@ -9,6 +9,7 @@
 2. The contents and links in archive menu.
 3. Four Pictures' links in the right.
 4. The content in "Owner's Words".
+
 **You can change things below in "Template-style>coldgrey-Default".**
 
 ## Module Postions
