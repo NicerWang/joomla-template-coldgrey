@@ -1,7 +1,7 @@
 # joomla-template-coldgrey
 ## A freshman in frontend created a very simple template for joomla.
 ## The template is prepared for my schoolwork, but everyone can use it for free.
-## License-GPLv3.0
+## Please change all the pictures when using,because they are not free.
 
 # Details
 ## individualization
@@ -35,4 +35,7 @@ Code and quote have different background color.
 
 Code has been highlighted.
 
-Used CSS code in plug-in MarkdownPreviewEnhanced in Vscode.(text,css)
+Used CSS code in plug-in MarkdownPreviewEnhanced in Vscode.(text.css)
+
+## 404Page
+tencent 404 page.
