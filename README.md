@@ -14,9 +14,13 @@
 
 ## Module Postions
 postion-nav\Crumbs Navigation
+
 postion-search\SearchBox
+
 position-right\Owner's Word
+
 component\Main Output
+
 
 ## Main Output
 
@@ -28,5 +32,7 @@ The search box is similiar with baidu.com, but not the same.
 
 ### Passages 
 Code and quote have different background color.
+
 Code has been highlighted.
+
 Used CSS code in plug-in MarkdownPreviewEnhanced in Vscode.(text,css)
