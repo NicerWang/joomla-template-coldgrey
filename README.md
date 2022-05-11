@@ -1,7 +1,7 @@
 # joomla-template-coldgrey
 > A very simple template for joomla.
 > 
-> Please change all the pictures when using,because they are not free.
+> Please change all the pictures when using, because they are not free.
 
 ![preview](./template_preview.png)
 
@@ -12,22 +12,22 @@
 3. Four Pictures' links in the right.
 4. The content in "Owner's Words".
 
-**You can change things above in "Template>style>coldgrey-Default".**
+**You can change things above in "Template > style > coldgrey-Default".**
 
 ## Module Postions
 
-postion-nav\Crumbs Navigation
+postion-nav \ Crumbs Navigation
 
-postion-search\SearchBox
+postion-search \ SearchBox
 
-position-right\Owner's Word
+position-right \ Owner's Word
 
-component\Main Output
+component \ Main Output
 
 ## Main Output
 
 ### Home
-The template only provide 'postion-right' in homepage.
+The template only provide "postion-right" in homepage.
 
 ### Passages 
 Code and quote have different background color.
